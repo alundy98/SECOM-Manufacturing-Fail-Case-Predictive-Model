@@ -1,0 +1,9 @@
+confusion_matrix.npy
+confusion_matrix.png
+feature_importance.csv
+feature_importance.png
+y_pred.npy
+y_test.npy
+secom_first_attempt(2024-jan2025).ipynb
+.venv
+.venv311
